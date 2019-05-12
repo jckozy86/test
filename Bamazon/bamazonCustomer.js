@@ -81,7 +81,6 @@ function purchaseItems(answer) {
 
                 console.log("\nTotal Cost of purchase is: $"+totalCost+"\n");
                  return runApp();
-                
             });
         } else {
             console.debug("\nInsufficient quantity!.\n");
